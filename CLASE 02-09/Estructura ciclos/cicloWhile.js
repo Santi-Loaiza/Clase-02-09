@@ -4,5 +4,4 @@ let i = 0;
 while(i<n){
     document.write("<br>"+i)
     i = i++;
-    break
 }
